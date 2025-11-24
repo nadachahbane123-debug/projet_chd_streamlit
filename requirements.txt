@@ -3,8 +3,8 @@ pandas==2.1.4
 numpy==1.26.4
 joblib
 streamlit
-matplotlib
-sklearn-pandas
+matplotlib==3.8.0
+sklearn-pandas==2.2.0
 imbalanced-learn
-pyreadstat
+pyreadstat==1.1.3
 seaborn
